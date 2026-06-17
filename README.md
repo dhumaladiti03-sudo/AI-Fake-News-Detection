@@ -3,6 +3,7 @@ AI Fake News Detection
 
 ## Project Description
 This project detects whether news is Fake or Real using NLP and Machine Learning.
+git add README.md
 
 ## Technologies Used
 - Python
