@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AI Fake News Detection
 # AI Fake News Detection
 
@@ -27,3 +28,7 @@ True.csv
 
 ## How to Run
 python fake_news.py
+=======
+# fake-news-detection-AI-internship
+AI-Powered Fake News Detection using python,NLP,ML
+>>>>>>> 281b1e255b8f4614a4fd47f1fb76e62f7531c7e6
